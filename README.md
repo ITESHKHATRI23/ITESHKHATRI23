@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ITESHKHATRI23
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning in grade 10
+- 🌱 I’m currently learning in grade 11
+- 
   
 
 <!---
